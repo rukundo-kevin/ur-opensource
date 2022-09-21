@@ -11,6 +11,8 @@ function App() {
     <div className="container mx-auto text-gray-900  font-sans p-2 antialiased">
       <div className="flex flex-wrap -mx-4">
         <Card name='Rukundo Kevin' twitterHandle='rukundokevin_'/>
+                  <Card name='Jane Doe' twitterHandle='janedoe'/>
+
       </div>
     </div>
 
