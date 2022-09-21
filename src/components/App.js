@@ -12,8 +12,9 @@ function App() {
       <div className="flex flex-wrap -mx-4">
         <Card name='Rukundo Kevin' twitterHandle='rukundokevin_'/> 
 <Card name='joe' twitterHandle='joe'/>
-      </div>
-    </div>
+<Card name='Alain Tresor' twitterHandle='alaintresor5' />
+
+</div>      </div>
 
     </div>
   );
