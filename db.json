@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "email": "rukundo@gmail.com",
+      "password": "$2a$10$yQv7Gs/a1DBV0G.G/DjoiuIvup7aPx3N1Py9ahPnc8OllpTjQE5pC",
+      "name":"Rukundo",
+      "role": "employee",
+      "id": 3
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$RK8GdfnHGzvR87c62yNf9u.l6Hsh3ifouF4AaV65VChMxv6r5ByH6",
+      "name":"Admin",
+      "role": "admin",
+      "id": 4
+    },
+    {
+      "email": "new@gmail.com",
+      "password": "$2a$10$7FwVvq8L4A9xTfVPlJPNjOUmvoga0TPUZDuZDrYP0vs/TfUJf6Tk2",
+      "name": "New User",
+      "role": "employee",
+      "id": 5
+    }
+  ],
+  "todo": [
+    {
+      "isCompleted": false,
+      "employee": "new@gmail.com",
+      "title": "Do the other thing",
+      "id": 8
+    },
+    {
+      "isCompleted": false,
+      "employee": "rukundo@gmail.com",
+      "title": "Do that",
+      "id": 9
+    },
+    {
+      "isCompleted": false,
+      "employee": "rukundo@gmail.com",
+      "title": "not now",
+      "id": 10
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
