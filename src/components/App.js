@@ -10,11 +10,11 @@ function App() {
     >
     <div className="container mx-auto text-gray-900  font-sans p-2 antialiased">
       <div className="flex flex-wrap -mx-4">
-        <Card name='Rukundo Kevin' twitterHandle='rukundokevin_'/>
-        <Card name='John Doe' twitterHandle='jdoe'/>
-      </div>
-    </div>
-
+        <Card name='Rukundo Kevin' twitterHandle='rukundokevin_'/> 
+        <Card name='joe' twitterHandle='joe'/>
+        <Card name='Alain Tresor' twitterHandle='alaintresor5' />
+      </div>  
+     </div>
     </div>
   );
 }

@@ -1,7 +1,4 @@
 # Description
+https://education.github.com/benefits?utm_source=2023-01-26-initial-commit-to-first-contribution
 
-This repository contains differents challenges from Klab Upskill
 
-# Employee Management System
-
-The simple employee management system challenge is in `./challenges`
